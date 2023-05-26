@@ -8,7 +8,7 @@ public class MeuPrimeiroProjetoComSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjetoComSpringBootApplication.class, args);
-		System.out.println("Meu primeiro projeto");
+		System.out.println("Meu primeiro projeto com Java Spring Boot");
 	}
 
 }
